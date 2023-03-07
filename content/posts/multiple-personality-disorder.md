@@ -1,9 +1,9 @@
 ---
 title: "Multiple Personality Disorder"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
+# weight: 30
 # aliases: ["/first"]
-tags: [""]
+tags: ["productivity"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: false
