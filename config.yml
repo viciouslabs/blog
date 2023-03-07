@@ -72,9 +72,9 @@ params:
         url: tags
 
   # home-info mode
-#  homeInfoParams:
-#    Title: "\U0001F44B"
-#    Content: ""
+  homeInfoParams:
+    Title: "\U0001F44B"
+    Content: "Happy reading"
 
 #  socialIcons:
 #    - name: twitter
