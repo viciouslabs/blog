@@ -18,6 +18,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.BLOG_TOKEN }}
+          personal_token: ${{ secrets.BLOG_TOKEN }}
           publish_dir: ./public
           external_repository: viciouslabs/viciouslabs.github.io
