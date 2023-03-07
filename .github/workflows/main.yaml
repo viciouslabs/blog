@@ -13,7 +13,9 @@ jobs:
           hugo-version: "0.110.0"
 
       - name: Build
-        run: hugo
+        run: |
+          hugo
+          cp CNAME ./public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
