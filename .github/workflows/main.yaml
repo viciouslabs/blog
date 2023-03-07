@@ -13,11 +13,10 @@ jobs:
           hugo-version: "0.110.0"
 
       - name: Build
-        run: hugo
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.BLOG_TOKEN }}
           publish_dir: ./public
