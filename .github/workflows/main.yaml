@@ -17,9 +17,9 @@ jobs:
           hugo
           cp CNAME ./public
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.BLOG_TOKEN }}
-          publish_dir: ./public
-          external_repository: viciouslabs/viciouslabs.github.io
+#      - name: Deploy
+#        uses: peaceiris/actions-gh-pages@v3
+#        with:
+#          personal_token: ${{ secrets.BLOG_TOKEN }}
+#          publish_dir: ./public
+#          external_repository: viciouslabs/viciouslabs.github.io
