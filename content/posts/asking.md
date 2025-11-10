@@ -1,6 +1,6 @@
 ---
 title: "Asking"
-date: 2025-10-10T18:15:51+01:00
+date: 2025-10-10T16:15:51+01:00
 # weight: 30
 # aliases: ["/first"]
 tags: ["productivity"]
