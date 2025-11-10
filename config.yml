@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "\U0001F44B"
-    Content: "Happy reading"
+    Content: "Happy reading folks"
 
 #  socialIcons:
 #    - name: twitter
