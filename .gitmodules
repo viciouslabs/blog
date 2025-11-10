@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = git@github.com-vl:viciouslabs/viciouslabs.github.io.git
+	url = git@github.com:viciouslabs/viciouslabs.github.io.git
 [submodule "theme"]
 	path = themes/PaperMod
-        url = git@github.com-vl:adityatelange/hugo-PaperMod.git
+  url = git@github.com:adityatelange/hugo-PaperMod.git
