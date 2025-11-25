@@ -6,11 +6,6 @@
 ### Github Repo for Github Pages
 [github pages repo](https://github.com/viciouslabs/viciouslabs.github.io)
 
-### Creating A Post
-```
-hugo new --kind post <name>
-```
-
 ### Theme
 [Hugo PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
 
@@ -45,6 +40,11 @@ git submodule update --init --recursive
 To run the site locally, use the command:
 ```
 hugo server -D
+```
+
+### Creating A Post
+```
+hugo new --kind post <name>
 ```
 
 ### Automatic Deployment
