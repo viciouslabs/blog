@@ -24,11 +24,11 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "images/jim-rohn.jpg"
+    alt: "Jim Rohn - Productivity Philosopher"
+    caption: "Timeless Wisdom for Personal Effectiveness"
+    relative: false
+    hidden: true
 ---
 My YouTube feed is generally a cheap dopamine dose of worthless tech, sports, and entertainment videos. But last week, 
 the algorithm did something unusual: it introduced me to the enthralling [Jim Rohn](https://en.wikipedia.org/wiki/Jim_Rohn).

@@ -24,11 +24,11 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "ramakrishna-paramahamsa.jpg" # image path/url
+  image: "images/adi-shankracharya.png" # image path/url
   alt: "Ramakrishna Paramahamsa - Spiritual Teacher" # alt text
   caption: "Non-duality realized through spiritual practice" # display caption under cover
-  relative: false # when using page bundles set this to true
-  hidden: true # only hide on current single page
+  relative: true # when using page bundles set this to true
+  hidden: false # only hide on current single page
 ---
 
 Let's indulge in some philosophy today. **Advaita Vedanta**.

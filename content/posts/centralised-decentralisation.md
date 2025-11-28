@@ -24,11 +24,11 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-image: "<image path/url>" # image path/url
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
+    image: "images/dee-hock.png"
+    alt: "Dee Hock - Founder of Visa"
+    caption: "Dee Hock: Blending Chaos and Order"
+    relative: false
+    hidden: true
 ---
 The world is riddled with wisdom. No surprise I stumbled on the work of [Dee Hock](https://en.wikipedia.org/wiki/Dee_Hock),
 the founder of Visa. His philosophy, coined as "Chaordic" (a blend of chaos and order), offered a radical system upgrade
@@ -55,7 +55,7 @@ locking, and Team C has hardcoded secrets in their `.tf` files. The tool is stan
 Well, we'll just state the problem here, and try and solve the problem in later posts.
 
 ## B. Centralized Decentralization: The "Tight-Loose-Tight" Model
-The ultimate architecture for a software company is the "Centralized Decentralization" model. This is often described in
+Rune Ulvnes provided the ultimate architecture for a software company is the "Centralized Decentralization" model. This is often described in
 management theory as "Tight-Loose-Tight."
 
 * **Tight (Centralized):** The Strategy and The Standards. We agree on *what* we are building and the *guardrails* of
