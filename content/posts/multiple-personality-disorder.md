@@ -1,5 +1,5 @@
 ---
-title: "Multiple Personality Disorder"
+title: "Multiple Personality Order"
 date: 2020-09-15T11:30:03+00:00
 # weight: 30
 # aliases: ["/first"]
@@ -24,15 +24,11 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/viciouslabs/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    image: "images/multiple-personality-order.png"
+    alt: "Multiple Personality Order"
+    caption: "Polymorphic Productivity"
+    relative: false
+    hidden: true
 ---
 You might be an employee on the weekdays, and a curious warrior on the weekends. Usually we're all set to work professionally as an employee. When you're working with tools professionally, you'll face a situation where you'll need to switch identities seemlessly.
 
