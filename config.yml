@@ -137,5 +137,6 @@ markup:
 
 outputs:
   home:
+    - JSON
     - HTML
     - RSS
