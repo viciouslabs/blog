@@ -4,6 +4,31 @@ date: 2025-11-28T02:08:56+01:00
 # weight: 30
 # aliases: ["/first"]
 tags: ["tech growth", "advaita vedanta"]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: ""
+canonicalURL: "https://canonical.url/to/page"
+disableShare: false
+disableHLJS: false # to disable highlightjs
+hideSummary: true
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+image: "<image path/url>" # image path/url
+alt: "<alt text>" # alt text
+caption: "<text>" # display caption under cover
+relative: false # when using page bundles set this to true
+hidden: true # only hide on current single page
 ---
 Let's indulge in some philosophy today. **Advaita Vedanta**.
 
