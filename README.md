@@ -27,6 +27,13 @@ Last tested with version:
 hugo v0.152.2+extended+withdeploy darwin/arm64 BuildDate=2025-10-24T15:31:49Z VendorInfo=brew
 ```
 
+#### Install 
+Install `entr` for live reloading of the site during development.
+
+```bash
+brew install entr
+```
+
 #### Git Submodules
 Use the `.gitmodules_local` file as `.gitmodules` file as a prerequisite.
 Checkout the blogpost about multiple git configs for more details: [Managing Multiple Git Configurations](https://nononsense.pro/posts/multiple-personality-disorder/)
