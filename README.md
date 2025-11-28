@@ -39,7 +39,7 @@ git submodule update --init --recursive
 #### Run Locally
 To run the site locally, use the command:
 ```
-hugo server -D
+make debug
 ```
 
 ### Creating A Post
