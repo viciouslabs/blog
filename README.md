@@ -44,7 +44,7 @@ hugo server -D
 
 ### Creating A Post
 ```
-hugo new --kind post <name>
+hugo new posts/<post-title>.md
 ```
 
 ### Automatic Deployment
